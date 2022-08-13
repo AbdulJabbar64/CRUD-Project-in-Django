@@ -6,6 +6,6 @@ This Web framework was initially developed for The World Company for managing so
 Techop
 
 **Django emphasizes the following:**
-**Pluggability and reusability of components
-**Quick development
-**The principle of non repetition
+- Pluggability and reusability of components
+- Quick development
+- The principle of non repetition
