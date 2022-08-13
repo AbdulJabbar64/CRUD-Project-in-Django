@@ -5,7 +5,7 @@ Django is an advanced Web framework written in Python that makes use of the mode
 This Web framework was initially developed for The World Company for managing some of their news-oriented sites. In July 2005, it was publicly released under a BSD license.
 Techop
 
-- Django emphasizes the following:
-** Pluggability and reusability of components
-** Quick development
-** The principle of non repetition
+**Django emphasizes the following:**
+**Pluggability and reusability of components
+**Quick development
+**The principle of non repetition
