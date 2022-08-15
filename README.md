@@ -11,3 +11,5 @@ Techop
 - The principle of non repetition
 
 # UI image of Project
+
+![](https://github.com/AbdulJabbar64/CRUD-Project-in-Django/blob/main/images/curd1.PNG)
